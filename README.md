@@ -8,10 +8,9 @@
 ### 👋 Hi, I'm Muhammad Farhan
 
 - 🎓 Computer Science student at **COMSATS University Islamabad, Sahiwal Campus** — 5th Semester
-- 💻 Currently learning **Java, OOP, C, Python, SQL, Data Structures & Algorithms, Web Development, and Databases**
+- 💻Skilled in Java, OOP, C, Python, SQL, Data Structures & Algorithms, Web Development, and Database
 - 📜 Certified in **Java** and **SQL** (SoloLearn)
-- 📊 Current CGPA: **3.52 / 4.00**
-- 🕌 Hafiz-e-Quran
+- 📊 Current CGPA: **3.53 / 4.00* 
 - 🏸 2nd Position — Badminton (College Level)
 - 📈 3rd Position — Economics, ICS (Punjab College, Chichawatni)
 - 🎨 Certificate of Appreciation — River Rock Painting, Calligraphy & Fine Arts (COMSATS)
